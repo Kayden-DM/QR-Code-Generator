@@ -1,4 +1,4 @@
-## QR Code Generator
+## QR Code Generator  
 A desktop QR code generator built with CustomTkinter and the qrcode library. It takes text or a URL, renders a QR code preview in the window, and lets you save the result as a PNG file.
 
 ## Features
